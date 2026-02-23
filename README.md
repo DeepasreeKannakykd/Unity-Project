@@ -47,9 +47,6 @@ Click Play ▶ inside the Unity Editor
 Build the project via:
 File → Build Settings → Build and Run
 
-open  https://v0-terrible-fashion-advice.vercel.app/
-to see the result
-
 ### Project Documentation
 
 For Software:
