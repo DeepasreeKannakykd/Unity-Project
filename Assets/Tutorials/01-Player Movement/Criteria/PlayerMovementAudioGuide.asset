@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003c691b70a7bad46b7482c383d04315, type: 3}
+  m_Name: PlayerMovementAudioGuide
+  m_EditorClassIdentifier: 
+  narrationClip:
+  - {fileID: 8300000, guid: 20853fd27bd405e4d866ac3a1933e10e, type: 3}
+  - {fileID: 8300000, guid: 87cafd04f6722a842b6fc3d43cfbd318, type: 3}
+  - {fileID: 8300000, guid: d3a5fd1c99108b84faee6b4a168b0514, type: 3}

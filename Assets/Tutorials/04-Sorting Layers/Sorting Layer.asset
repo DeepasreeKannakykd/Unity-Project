@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Sorting Layer
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Sorting Layer
+  m_ProgressTrackingEnabled: 1
+  m_LessonId: 8b1a7407-c123-47a8-af12-48e0352ccd75
+  m_Version: 1
+  m_ReturnToPreviousScenes: 0
+  m_SceneManagementBehavior: 1
+  m_Scenes: []
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 0}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 0ad5dd1aecd2a254a8123489f0d52ee7, type: 2}
+    - {fileID: 11400000, guid: a9444aab1c8f9ec41b108fe3d170cda0, type: 2}
+    - {fileID: 11400000, guid: 103378566502ec748b923c6a69acd9b7, type: 2}
+    - {fileID: 11400000, guid: b017401ad27b4d6428329e458992c3df, type: 2}
+    - {fileID: 11400000, guid: 4ce4fef3ece4f6b45bc2a9d64f52c4f8, type: 2}
+    - {fileID: 11400000, guid: a41253b8c026e76418467397f1f8bfb9, type: 2}
+    - {fileID: 11400000, guid: 23138cd94c9ad2c46878592d7b249822, type: 2}
+    - {fileID: 11400000, guid: b58c539912d727e4eb6e38bf2bfb8905, type: 2}
+    - {fileID: 11400000, guid: 4de50bf24d501754aa2e1fa75c1bfa03, type: 2}
+    - {fileID: 11400000, guid: c6c985da0400e7f42a3d63cc1f772139, type: 2}
+    - {fileID: 11400000, guid: 766e363d6e1e29040a13ffcf6befcddc, type: 2}
+    - {fileID: 11400000, guid: f81fbb913af53cb428a7e8516c7b1aa7, type: 2}
+    - {fileID: 11400000, guid: 9362213e971b6844cbada05a6c6d9186, type: 2}
+    - {fileID: 11400000, guid: 6f2f33d3893ba1944af91038d80233b8, type: 2}
+    - {fileID: 11400000, guid: a714c5309c6be8a448f172ef572a5711, type: 2}
+    - {fileID: 11400000, guid: f8f91438ed227ed49a69dfc88d86c39e, type: 2}
+    - {fileID: 11400000, guid: 10cb08113cf4c784caaa97f9b2cc347e, type: 2}
+    - {fileID: 11400000, guid: 2b7172c0a9cf8784dadff61309de7adc, type: 2}
+    - {fileID: 11400000, guid: 174db73a0cf5e774f9c98c98d82f1d8b, type: 2}
+    - {fileID: 11400000, guid: 9608ab88b3af9d143b128a9f80d9cc3a, type: 2}
+    - {fileID: 11400000, guid: 70c8eaebbc9048b40858a0d914dcf9d9, type: 2}
+    - {fileID: 11400000, guid: b8a1a2c2fe9d10a409d3a1bd084eedff, type: 2}
+    - {fileID: 11400000, guid: 908da55246042f04d89634e843a76873, type: 2}
+    - {fileID: 11400000, guid: 638b8704e08e4f648b3568653e449b52, type: 2}
+    - {fileID: 11400000, guid: 9dbe05776778f4a4ca6b6df455bb3333, type: 2}
+    - {fileID: 11400000, guid: e206b431a019f784eb50b354552aa5fa, type: 2}
+  CompletionDialog: {fileID: 0}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e11b4924f816eda4f94f2c56160fc61d, type: 2}
+        m_TargetAssemblyTypeName: Unity.Tutorials.TutorialManager, Assembly-CSharp
+        m_MethodName: StartTutorial
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000}
+          m_ObjectArgumentAssemblyTypeName: Unity.Tutorials.Core.Editor.Tutorial,
+            Unity.Tutorials.Core.Editor
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e11b4924f816eda4f94f2c56160fc61d, type: 2}
+        m_TargetAssemblyTypeName: Unity.Tutorials.TutorialManager, Assembly-CSharp
+        m_MethodName: EndTutorial
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  Quit:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: e11b4924f816eda4f94f2c56160fc61d, type: 2}
+        m_TargetAssemblyTypeName: Unity.Tutorials.TutorialManager, Assembly-CSharp
+        m_MethodName: QuitTutorial
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  m_Scene: {fileID: 0}
+  m_TutorialTitle: 
