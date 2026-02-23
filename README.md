@@ -55,8 +55,22 @@ to see the result
 For Software:
 
 # Screenshots 
-<img src="Screenshot 2025-08-08 181404.png"> 
-The landing page of Style-Critic, a humorous AI-powered fashion app that offers intentionally bad style advice. Users can upload their outfit to receive terrible tips with the “Ruin My Style” button or browse chaotic fashion fails through “Explore Chaos.” Key features include Instant Disasters, Anti-Glow Up, and The Stage — all designed to help users look gloriously unfashionable.
+<img src="Screenshot 2026-02-23 185915.png"> 
+This image shows the Unity Editor interface while running the 2D platformer game. The Game view displays a side-scrolling level with a player character positioned on a grassy platform. The environment includes obstacles such as floor spikes and a checkpoint flag placed near the end of the platform.
+
+At the top-left corner, three heart icons represent the player's health system. The Hierarchy panel on the left lists key game objects such as the Main Camera, Player, Level, FireballHolder, Canvas, and EventSystem. The Project panel at the bottom displays audio assets including sound effects for actions like jump, hurt, impact, fireball, and game over. The Inspector panel on the right shows component settings for the selected object.
+
+The screenshot demonstrates the game’s level design, UI integration, physics-based obstacles, and overall project structure inside the Unity development environment.
+
+<img src="Unity-Project.png"> 
+Gameplay screen showing the player jumping over spikes with a visible health system and checkpoint in a 2D Unity platformer.
+
+<img src="Screenshot 2026-02-23 202640.png"> 
+Gameplay scene showing the player reaching a checkpoint while facing an enemy character and incoming projectile arrows. The screen highlights combat mechanics, hazards, health system (hearts), and level progression elements in the 2D Unity platformer.
+
+<img src="Screenshot 2026-02-23 202640.png"> 
+The player character approaches a checkpoint while confronting an enemy positioned ahead. Projectile arrows and spike traps create environmental hazards, emphasizing timing and movement challenges. The heart-based health display indicates the player’s remaining lives, while directional signs and platforms guide progression through the level. The scene showcases core mechanics including combat readiness, obstacle avoidance, health management, and checkpoint-based level advancement.
+
 
  
 # Diagrams
