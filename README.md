@@ -68,7 +68,7 @@ Gameplay screen showing the player jumping over spikes with a visible health sys
 <img src="Screenshot 2026-02-23 202640.png"> 
 Gameplay scene showing the player reaching a checkpoint while facing an enemy character and incoming projectile arrows. The screen highlights combat mechanics, hazards, health system (hearts), and level progression elements in the 2D Unity platformer.
 
-<img src="Screenshot 2026-02-23 202640.png"> 
+<img src="Screenshot 2026-02-23 202725.png"> 
 The player character approaches a checkpoint while confronting an enemy positioned ahead. Projectile arrows and spike traps create environmental hazards, emphasizing timing and movement challenges. The heart-based health display indicates the player’s remaining lives, while directional signs and platforms guide progression through the level. The scene showcases core mechanics including combat readiness, obstacle avoidance, health management, and checkpoint-based level advancement.
 
 
